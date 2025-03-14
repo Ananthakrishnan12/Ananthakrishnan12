@@ -5,9 +5,9 @@
 </p>
 
 ## 🚀 About Me
-- 👀 I’m interested in **Machine Learning, Deep Learning, NLP, and Backend Development**  
+- 👀 I’m interested in **Machine Learning, Deep Learning, NLP, and Web Development**  
 - 🌱 I’m currently learning **FastAPI, Flask, and advanced Django concepts**  
-- 💼 I'm looking for job opportunities as a **Python Backend Developer / ML Engineer**  
+- 💼 I'm looking for job opportunities as a **PythonDjango Developer / ML Engineer**  
 - 💞️ I’m looking to collaborate on **open-source projects related to AI and backend development**  
 - 📫 How to reach me:  
   📧 Email: [ananthmle@gmail.com](mailto:ananthmle@gmail.com)  
@@ -49,17 +49,17 @@
 ---
 
 ## 📌 Featured Projects
-🚀 **Transactify** (Transaction Categorization & NER Model)  
-🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Transactify)  
-📌 **Tech Stack:** Python, LSTM, BERT, NLP, Google Colab  
+🚀 **Blog App Using Django** (Transaction Categorization & NER Model)  
+🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Django-Blog)  
+📌 **Tech Stack:** Python, Django 
 
 📝 **Blog API using Django REST Framework**  
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Blog-API-Django)  
-📌 **Tech Stack:** Django, Django Rest Framework, JWT Authentication  
+📌 **Tech Stack:** Django, Django Rest Framework, Token Authentication 
 
-🖥️ **Bus Booking API**  
-🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Bus-Booking-API)  
-📌 **Tech Stack:** FastAPI, MySQL, Pydantic  
+🖥️ **TechBOT**  
+🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/TechBOT)  
+📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI  
 
 ---
 
