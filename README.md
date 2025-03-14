@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Ananthakrishnan M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+Flask+%7C+MySQL;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Django+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+Flask+%7C+MySQL;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
