@@ -22,7 +22,6 @@
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Web Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
@@ -41,7 +40,7 @@
 ---
 
 ## 📌 Featured Projects
-🚀 **Blog App Using Django** (Transaction Categorization & NER Model)  
+🚀 **Blog App Using Django** 
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Django-Blog)  
 📌 **Tech Stack:** Python, Django 
 
@@ -49,7 +48,7 @@
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Blog-API-Django)  
 📌 **Tech Stack:** Django, Django Rest Framework, Token Authentication 
 
-🖥️ **TechBOT**  
+🖥️ **TechBOT**  (TechBOT - IT Education Chatbot)
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/TechBOT)  
 📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI  
 
