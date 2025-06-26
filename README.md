@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm Ananthakrishnan M</h1>
+<h1 align="center">
+  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Ananthakrishnan M
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Django+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+Flask+%7C+MySQL;Open+Source+Contributor" alt="Typing SVG" />
@@ -67,7 +70,7 @@
 ### 🏢 Organization: Eknal Technologies
 
 - 🛠️ **Role**: Contributor (Python/Django Developer)
-- 📅 **Duration**: February 2024 – Present
+- 📅 **Duration**: May 2025 – Present
 - 🔄 **Contributions**:
   - Raised multiple Pull Requests to improve code quality and features
   - Contributed to Django REST Framework-based backend
