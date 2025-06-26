@@ -46,20 +46,17 @@
 🚀 **Blog App Using Django** 
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Django-Blog)  
 📌 **Tech Stack:** Python, Django 
-🎥 **Demo Video:**  
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
+
 
 📝 **Blog API using Django REST Framework**  
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Blog-API-Django)  
 📌 **Tech Stack:** Django, Django Rest Framework, Token Authentication 
-🎥 **Demo Video:**  
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
+
 
 🖥️ **TechBOT**  (TechBOT - IT Education Chatbot)
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/TechBOT)  
 📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI 
-🎥 **Demo Video:**  
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
+
 
 ---
 
