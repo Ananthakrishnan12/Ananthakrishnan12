@@ -43,14 +43,49 @@
 🚀 **Blog App Using Django** 
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Django-Blog)  
 📌 **Tech Stack:** Python, Django 
+🎥 **Demo Video:**  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
 
 📝 **Blog API using Django REST Framework**  
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Blog-API-Django)  
 📌 **Tech Stack:** Django, Django Rest Framework, Token Authentication 
+🎥 **Demo Video:**  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
 
 🖥️ **TechBOT**  (TechBOT - IT Education Chatbot)
 🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/TechBOT)  
-📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI  
+📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI 
+🎥 **Demo Video:**  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_BLOG_APP_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_BLOG_APP_VIDEO_ID)
+
+---
+
+
+
+## 📈 Open Source Contributions
+
+### 🏢 Organization: Eknal Technologies
+
+- 🛠️ **Role**: Contributor (Python/Django Developer)
+- 📅 **Duration**: February 2024 – Present
+- 🔄 **Contributions**:
+  - Raised multiple Pull Requests to improve code quality and features
+  - Contributed to Django REST Framework-based backend
+  - Worked on modules like:
+    - Student registration & filtering
+    - Role-based access permissions
+    - Pagination, class-based views
+    - Salary, fees, attendance, and invoice modules
+  - Implemented:
+    - Django signals
+    - Model relationships and serializers
+    - API views with filters, search, and pagination
+
+📌 You can view my contributions here:
+- 🔗 [Eknal GitHub Repositories](https://github.com/EknalTechnologies) *(if public)*
+- 📂 Private repo stats: **X+ commits**, **Y+ pull requests**, **Z+ issues resolved**
+
+> Note: Contributions are mostly to private repositories under NDA, but I am actively involved in long-term development and maintenance.
 
 ---
 
