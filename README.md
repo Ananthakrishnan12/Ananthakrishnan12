@@ -1,110 +1,37 @@
-<h1 align="center">
-  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Ananthakrishnan M
-</h1>
+<h1 align="center">Hi 👋, I'm ANANTHAKRISHNAN</h1>
+<h3 align="center">A passionate Python developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthakrishnan12&label=Profile%20views&color=0e75b6&style=flat" alt="ananthakrishnan12" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Django+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+Flask+%7C+MySQL;Open+Source+Contributor" alt="Typing SVG" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnan12" alt="ananthakrishnan12" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently contributing on Eknal Technologies [Eknal Tracker & Eknal Bridge](https://github.com/eknaltechnologies)
+
+- 🌱 I’m currently learning **Django,Django RestFramework,Javascript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ananthakrishnan12?tab=repositories](https://github.com/Ananthakrishnan12?tab=repositories)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **ananthmle@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kXaZH_Xt2AdnALURJwNgLlI5QSLC0wrN/view?usp=drive_link](https://drive.google.com/file/d/1kXaZH_Xt2AdnALURJwNgLlI5QSLC0wrN/view?usp=drive_link)
+
+- ⚡ Fun fact **Love to contribute Open source projects.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ananthakrishnan336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthakrishnan336" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ananthakrishnan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananthakrishnan12" height="30" width="40" /></a>
 </p>
 
-## 🚀 About Me
-- 👀 I’m interested in **Machine Learning, Deep Learning, NLP, and Web Development**  
-- 🌱 I’m currently learning **FastAPI, Flask, and advanced Django concepts**  
-- 💼 I'm looking for job opportunities as a **PythonDjango Developer / ML Engineer**  
-- 💞️ I’m looking to collaborate on **open-source projects related to AI and backend development**  
-- 📫 How to reach me:  
-  📧 Email: [ananthmle@gmail.com](mailto:ananthmle@gmail.com)  
-  💼 LinkedIn: [Ananthakrishnan M](https://www.linkedin.com/in/ananthakrishnan336)  
-  🌐 Portfolio: [Visit My Portfolio](https://ananthakrishnan12.github.io/Ananthakrishnan.github.io/)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love solving real-world problems using AI & backend technologies!**  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthakrishnan12&show_icons=true&locale=en&layout=compact" alt="ananthakrishnan12" /></p>
 
-## 🛠️ Tech Stack
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnan12&show_icons=true&locale=en" alt="ananthakrishnan12" /></p>
 
-### 🌐 Web Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### 🔍 Machine Learning & Data Science
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### 🛢️ Database Management
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
----
-
-## 📌 Featured Projects
-🚀 **Blog App Using Django** 
-🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Django-Blog)  
-📌 **Tech Stack:** Python, Django 
-
-
-📝 **Blog API using Django REST Framework**  
-🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/Blog-API-Django)  
-📌 **Tech Stack:** Django, Django Rest Framework, Token Authentication 
-
-
-🖥️ **TechBOT**  (TechBOT - IT Education Chatbot)
-🔗 [GitHub Repository](https://github.com/Ananthakrishnan12/TechBOT)  
-📌 **Tech Stack:** Python, LSTM,NLP, Google Colab,FastAPI 
-
-
----
-
-
-
-## 📈 Open Source Contributions
-
-### 🏢 Organization: Eknal Technologies
-
-- 🛠️ **Role**: Contributor (Python/Django Developer)
-- 📅 **Duration**: May 2025 – Present
-- 🔄 **Contributions**:
-  - Raised multiple Pull Requests to improve code quality and features
-  - Contributed to Django REST Framework-based backend
-  - Worked on modules like:
-    - Student registration & filtering
-    - Role-based access permissions
-    - Pagination, class-based views
-    - Salary, fees, attendance, and invoice modules
-  - Implemented:
-    - Django signals
-    - Model relationships and serializers
-    - API views with filters, search, and pagination
-
-📌 You can view my contributions here:
-- 🔗 [Eknal GitHub Repositories](https://github.com/EknalTechnologies) *(if public)*
-- 📂 Private repo stats: **X+ commits**, **Y+ pull requests**, **Z+ issues resolved**
-
-> Note: Contributions are mostly to private repositories under NDA, but I am actively involved in long-term development and maintenance.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananthakrishnan12&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananthakrishnan12&show_icons=true&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthakrishnan12&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🌍 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananthakrishnan336"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ananthmle@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Ananthakrishnan12"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ananthakrishnan12.github.io/Ananthakrishnan.github.io/"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnan12&" alt="ananthakrishnan12" /></p>
